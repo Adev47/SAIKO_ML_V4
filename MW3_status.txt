@@ -1,5 +1,5 @@
 SAIKO UA + WOOFER V4,online,1.00.01,https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/DOTTY_LOADER/MWIII.exe
 SAIKO KURIBHO CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/IRIS_AIO__WOOFER.exe
 SAIKO SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/u237cgatAh2.exe
-LOUD CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_2.exe
+SAIKO LOUD CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/Winc_2.3_2.exe
 PRIVACY PROTECTOR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/Privacy_Protector.exe
