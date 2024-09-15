@@ -1,1 +1,0 @@
-LOGO,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/SAIKO_BANNER_V1_RDC.gif
