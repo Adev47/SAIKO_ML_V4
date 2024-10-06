@@ -1,0 +1,13 @@
+[design]
+highlight_color = #b41df3
+loader_box_color = #070707
+main_text_color = #ededed
+main_widgets_color = #050505
+
+[links]
+discord_link = https://discord.com/invite/KKm3bf2sPg
+guide_link = https://xyzexe.gitbook.io/mwiii-cheat-guidebook
+website_link = https://saikoshop.sellauth.com/
+
+[rounded_corners]
+main_widgets = 12
