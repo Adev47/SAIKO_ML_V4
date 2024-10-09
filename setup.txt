@@ -7,7 +7,7 @@ main_widgets_color = #050505
 [links]
 discord_link = https://discord.com/invite/KKm3bf2sPg
 guide_link = https://xyzexe.gitbook.io/mwiii-cheat-guidebook
-website_link = https://saikoshop.sellauth.com/
+website_link = https://saik0services.mysellix.io/fr/
 
 [rounded_corners]
 main_widgets = 12
