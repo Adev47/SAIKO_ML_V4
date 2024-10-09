@@ -1,7 +1,7 @@
 Logo,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/SAIKO_LOGO_V1.gif
 News_Page,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML/main/uploads/support_sentence_v1.png
 Lateral_Menu,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/saiko_default_lateral.png
-Background,1.00.01,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/saiko_default_background.png
+Background,1.00.02,https://raw.githubusercontent.com/avod245/1229748438707470338_cloud/main/invite.png
 BO6,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_BO6_category_wallp.png
 MW3,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW3_category_wallp.png
 MW2,1.00.1,https://raw.githubusercontent.com/Adev47/TEST_ML_V4/main/uploads/default_MW2_category_wallp.png
