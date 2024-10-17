@@ -1,4 +1,4 @@
-SAIKO UA + WOOFER V4,online,1.00.02,https://raw.githubusercontent.com/avod245/1229748438707470338_cloud/main/SAIKO.UA.CHAIR.MWIII.exe
+SAIKO UA + WOOFER V4,online,1.00.03,https://raw.githubusercontent.com/avod245/1283155946759258229_cloud/main/SAIKO-UACHAIRV2.exe
 SAIKO SILENT CHAIR,online,1.00.01,https://raw.githubusercontent.com/Adev47/LOADERS/main/uploads/u237cgatAh2.exe
 SAIKO LOUD CHAIR,online,1.00.02,https://raw.githubusercontent.com/Adev47/SAIKO_ML_V4/main/uploads/ldr_HXpBBPY.exe
 KURIBHO + WOOFER,online,1.00.02,https://raw.githubusercontent.com/Adev47/SAIKO_ML_V4/main/uploads/KURIBOH__WOOFER.exe
